@@ -1,5 +1,5 @@
 ---
-title: Grady Nerio
+title: Solène
 date: 2017-11-14 10:00:44 +0000
 role:
 - partner
@@ -8,9 +8,9 @@ thumbnail: "/uploads/2017/11/14/filipe-almeida-192048 (1).jpg"
 sub_heading: Head of Board
 email: grady@belkirkcollege.com
 linkedin: ''
-layout: 'person'
----
+layout: person
 
+---
 Grady Nerio joined the Belkirk Board in 2015.
 
 Grady received his Ph.D in Mechanical Engineering from Stanford in 1978, and has worked with prestigious companies such as Boeing and Lockheed Martin.
