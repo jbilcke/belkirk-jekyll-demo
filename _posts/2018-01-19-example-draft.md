@@ -9,7 +9,4 @@ related_posts: []
 ---
 ## CMS for Jekyll
 
-Bn![](/uploads/2017/11/14/alejandra-higareda-295605.jpg)joj**njour m**onde
-
-1. kokkp
-   1. 
+oups!
